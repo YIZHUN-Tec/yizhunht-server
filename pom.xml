@@ -3,28 +3,28 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>cn.iocoder.boot</groupId>
-    <artifactId>yudao</artifactId>
+    <groupId>com.yizhun.health.tech</groupId>
+    <artifactId>yizhunht</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>
     <modules>
-        <module>yudao-dependencies</module>
-        <module>yudao-framework</module>
+        <module>yizhunht-dependencies</module>
+        <module>yizhunht-framework</module>
         <!-- Server 主项目 -->
-        <module>yudao-server</module>
+        <module>yizhunht-server</module>
         <!-- 各种 module 拓展 -->
-        <module>yudao-module-system</module>
-        <module>yudao-module-infra</module>
-<!--        <module>yudao-module-member</module>-->
-<!--        <module>yudao-module-bpm</module>-->
-<!--        <module>yudao-module-report</module>-->
-<!--        <module>yudao-module-mp</module>-->
-<!--        <module>yudao-module-pay</module>-->
-<!--        <module>yudao-module-mall</module>-->
-<!--        <module>yudao-module-crm</module>-->
-<!--        <module>yudao-module-erp</module>-->
-<!--        <module>yudao-module-ai</module>-->
-<!--        <module>yudao-module-iot</module>-->
+        <module>yizhunht-module-system</module>
+        <module>yizhunht-module-infra</module>
+        <module>yizhunht-module-member</module>
+<!--        <module>yizhunht-module-bpm</module>-->
+<!--        <module>yizhunht-module-report</module>-->
+<!--        <module>yizhunht-module-mp</module>-->
+        <module>yizhunht-module-pay</module>
+        <module>yizhunht-module-mall</module>
+<!--        <module>yizhunht-module-crm</module>-->
+<!--        <module>yizhunht-module-erp</module>-->
+<!--        <module>yizhunht-module-ai</module>-->
+<!--        <module>yizhunht-module-iot</module>-->
     </modules>
 
     <name>${project.artifactId}</name>
@@ -50,8 +50,8 @@
     <dependencyManagement>
         <dependencies>
             <dependency>
-                <groupId>cn.iocoder.boot</groupId>
-                <artifactId>yudao-dependencies</artifactId>
+                <groupId>com.yizhun.health.tech</groupId>
+                <artifactId>yizhunht-dependencies</artifactId>
                 <version>${revision}</version>
                 <type>pom</type>
                 <scope>import</scope>

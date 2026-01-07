@@ -1,0 +1,7 @@
+com.yizhun.health.tech.framework.apilog.config.YizhunhtApiLogAutoConfiguration
+com.yizhun.health.tech.framework.jackson.config.YizhunhtJacksonAutoConfiguration
+com.yizhun.health.tech.framework.swagger.config.YizhunhtSwaggerAutoConfiguration
+com.yizhun.health.tech.framework.web.config.YizhunhtWebAutoConfiguration
+com.yizhun.health.tech.framework.xss.config.YizhunhtXssAutoConfiguration
+com.yizhun.health.tech.framework.banner.config.YizhunhtBannerAutoConfiguration
+com.yizhun.health.tech.framework.encrypt.config.YizhunhtApiEncryptAutoConfiguration

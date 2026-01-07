@@ -1,0 +1,3 @@
+com.yizhun.health.tech.framework.datasource.config.YizhunhtDataSourceAutoConfiguration
+com.yizhun.health.tech.framework.mybatis.config.YizhunhtMybatisAutoConfiguration
+com.yizhun.health.tech.framework.translate.config.YizhunhtTranslateAutoConfiguration

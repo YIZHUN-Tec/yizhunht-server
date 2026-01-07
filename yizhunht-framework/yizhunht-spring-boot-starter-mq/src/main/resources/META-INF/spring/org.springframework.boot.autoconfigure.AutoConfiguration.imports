@@ -1,0 +1,3 @@
+com.yizhun.health.tech.framework.mq.redis.config.YizhunhtRedisMQProducerAutoConfiguration
+com.yizhun.health.tech.framework.mq.redis.config.YizhunhtRedisMQConsumerAutoConfiguration
+com.yizhun.health.tech.framework.mq.rabbitmq.config.YizhunhtRabbitMQAutoConfiguration

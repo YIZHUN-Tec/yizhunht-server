@@ -1,0 +1,3 @@
+com.yizhun.health.tech.framework.security.config.YizhunhtSecurityAutoConfiguration
+com.yizhun.health.tech.framework.security.config.YizhunhtWebSecurityConfigurerAdapter
+com.yizhun.health.tech.framework.operatelog.config.YizhunhtOperateLogConfiguration

@@ -1,0 +1,49 @@
+[ {
+  "contentPath" : "java/InfraCategoryListReqVO",
+  "filePath" : "yizhunht-module-infra/yizhunht-module-infra-biz/src/main/java/com.yizhun.health.tech/module/infra/controller/admin/demo/vo/InfraCategoryListReqVO.java"
+}, {
+  "contentPath" : "java/InfraCategoryRespVO",
+  "filePath" : "yizhunht-module-infra/yizhunht-module-infra-biz/src/main/java/com.yizhun.health.tech/module/infra/controller/admin/demo/vo/InfraCategoryRespVO.java"
+}, {
+  "contentPath" : "java/InfraCategorySaveReqVO",
+  "filePath" : "yizhunht-module-infra/yizhunht-module-infra-biz/src/main/java/com.yizhun.health.tech/module/infra/controller/admin/demo/vo/InfraCategorySaveReqVO.java"
+}, {
+  "contentPath" : "java/InfraCategoryController",
+  "filePath" : "yizhunht-module-infra/yizhunht-module-infra-biz/src/main/java/com.yizhun.health.tech/module/infra/controller/admin/demo/InfraCategoryController.java"
+}, {
+  "contentPath" : "java/InfraCategoryDO",
+  "filePath" : "yizhunht-module-infra/yizhunht-module-infra-biz/src/main/java/com.yizhun.health.tech/module/infra/dal/dataobject/demo/InfraCategoryDO.java"
+}, {
+  "contentPath" : "java/InfraCategoryMapper",
+  "filePath" : "yizhunht-module-infra/yizhunht-module-infra-biz/src/main/java/com.yizhun.health.tech/module/infra/dal/mysql/demo/InfraCategoryMapper.java"
+}, {
+  "contentPath" : "xml/InfraCategoryMapper",
+  "filePath" : "yizhunht-module-infra/yizhunht-module-infra-biz/src/main/resources/mapper/demo/InfraCategoryMapper.xml"
+}, {
+  "contentPath" : "java/InfraCategoryServiceImpl",
+  "filePath" : "yizhunht-module-infra/yizhunht-module-infra-biz/src/main/java/com.yizhun.health.tech/module/infra/service/demo/InfraCategoryServiceImpl.java"
+}, {
+  "contentPath" : "java/InfraCategoryService",
+  "filePath" : "yizhunht-module-infra/yizhunht-module-infra-biz/src/main/java/com.yizhun.health.tech/module/infra/service/demo/InfraCategoryService.java"
+}, {
+  "contentPath" : "java/InfraCategoryServiceImplTest",
+  "filePath" : "yizhunht-module-infra/yizhunht-module-infra-biz/src/test/java/com.yizhun.health.tech/module/infra/service/demo/InfraCategoryServiceImplTest.java"
+}, {
+  "contentPath" : "java/ErrorCodeConstants_手动操作",
+  "filePath" : "yizhunht-module-infra/yizhunht-module-infra-api/src/main/java/com.yizhun.health.tech/module/infra/enums/ErrorCodeConstants_手动操作.java"
+}, {
+  "contentPath" : "sql/sql",
+  "filePath" : "sql/sql.sql"
+}, {
+  "contentPath" : "sql/h2",
+  "filePath" : "sql/h2.sql"
+}, {
+  "contentPath" : "vue/index",
+  "filePath" : "yizhunht-ui-admin-vue2/src/views/infra/demo/index.vue"
+}, {
+  "contentPath": "js/index",
+  "filePath": "yizhunht-ui-admin-vue2/src/api/infra/demo/index.js"
+}, {
+  "contentPath" : "vue/CategoryForm",
+  "filePath" : "yizhunht-ui-admin-vue2/src/views/infra/demo/CategoryForm.vue"
+} ]

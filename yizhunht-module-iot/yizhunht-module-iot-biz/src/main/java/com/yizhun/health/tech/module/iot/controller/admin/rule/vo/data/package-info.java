@@ -1,0 +1,1 @@
+package com.yizhun.health.tech.module.iot.controller.admin.rule.vo.data;

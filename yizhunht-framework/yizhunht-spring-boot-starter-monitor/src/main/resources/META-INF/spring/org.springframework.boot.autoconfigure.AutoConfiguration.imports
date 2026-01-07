@@ -1,0 +1,2 @@
+com.yizhun.health.tech.framework.tracer.config.YizhunhtTracerAutoConfiguration
+com.yizhun.health.tech.framework.tracer.config.YizhunhtMetricsAutoConfiguration

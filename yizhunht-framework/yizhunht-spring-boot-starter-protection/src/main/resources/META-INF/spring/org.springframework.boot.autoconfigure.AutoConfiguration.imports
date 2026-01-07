@@ -1,0 +1,4 @@
+com.yizhun.health.tech.framework.idempotent.config.YizhunhtIdempotentConfiguration
+com.yizhun.health.tech.framework.lock4j.config.YizhunhtLock4jConfiguration
+com.yizhun.health.tech.framework.ratelimiter.config.YizhunhtRateLimiterConfiguration
+com.yizhun.health.tech.framework.signature.config.YizhunhtApiSignatureAutoConfiguration

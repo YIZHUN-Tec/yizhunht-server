@@ -1,0 +1,1 @@
+package com.yizhun.health.tech.module.crm.framework.permission.core;
