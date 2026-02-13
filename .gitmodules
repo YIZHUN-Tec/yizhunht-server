@@ -1,0 +1,6 @@
+[submodule "yizhunht-admin"]
+	path = yizhunht-admin
+	url = git@github.com:YIZHUN-Tec/yizhunht-admin.git
+[submodule "yizhunht-uniapp"]
+	path = yizhunht-uniapp
+	url = git@github.com:YIZHUN-Tec/yizhunht-uniapp.git
